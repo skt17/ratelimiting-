@@ -1,6 +1,6 @@
 # Ratelimiting using Spring Boot and Redis
 
-## PreRequsites
+## Prerequisites
   1. Definition of <a href="https://en.wikipedia.org/wiki/Rate_limiting#:~:text=A%20rate%20limiting%20algorithm%20is,code%20429%3A%20Too%20Many%20Requests.">Rate Limiting
   2.  <a href="https://en.wikipedia.org/wiki/Token_bucket">Token Bucket Algo.</a> 
   
